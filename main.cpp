@@ -4,7 +4,7 @@
 
 int main() {
 
-    MyArray<int,100> myArray;
+    MyArray<double,100> myArray;
 
     myArray.fill(20);
 
